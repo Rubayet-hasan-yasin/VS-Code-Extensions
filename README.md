@@ -1,6 +1,6 @@
 # 🚀 VS Code Extensions
 
-1. **JavaScript (ES6) Code Snippets** - ES6 + snippets for faster development.
+1. **JavaScript (ES6) Code Snippets** - ES6+ snippets for faster development.
 2. **DotENV** - Syntax highlighting for `.env` files.
 3. **ESLint** - Enforces JavaScript & TypeScript coding standards.
 4. **Prettier** - Auto-formats code for consistency.
@@ -13,7 +13,7 @@
 11. **Live Server** - Local server with live reload.
 12. **Code Spell Checker** - Detects spelling errors in code.
 13. **CodeSnap** - Take beautiful screenshots of your code.
-14. **vscode-icons - Adds visually appealing file icons**.
+14. **vscode-icons** - Adds visually appealing file icons.
 15. **GitLens** - Advanced Git integration in VS Code.
 16. **Code Runner** - Run code snippets in multiple languages.
 17. **Better Comments** - Improves code commenting with colored tags.
@@ -33,7 +33,18 @@
 31. **Python** - Essential Python extension for debugging, linting, and Jupyter support.
 32. **Pylance** - Fast and feature-rich Python language support.
 33. **Jupyter** - Jupyter notebook support inside VS Code.
-34. **Go** - Go language support with IntelliSense\*\*, debugging, and linting.
+34. **Go** - Go language support with IntelliSense, debugging, and linting.
+35. **Indent-Rainbow** - Adds rainbow colors to indentation levels.
+36. **Live Sass Compiler** - Compiles SCSS/Sass files to CSS in real time.
+37. **Mongo Snippets for Node.js** - Snippets for MongoDB usage in Node.js.
+38. **Power Mode** - Adds fun visual effects while coding.
+39. **React Extension Pack** - A collection of essential React.js extensions.
+40. **Reactjs Code Snippets** - Snippets for React.js development.
+41. **Search node_modules** - Quickly search inside the `node_modules` folder.
+42. **autopep8** - Automatically formats Python code following PEP 8 standards.
+43. **Prisma** - Enhances Prisma ORM development with IntelliSense.
+44. **Python Debugger** - Debugging tools for Python inside VS Code.
+45. **GitHub Copilot** - AI-powered code completion and suggestions.
 
 These extensions will enhance your VS Code experience! 🚀 Happy coding! 🎯
 
